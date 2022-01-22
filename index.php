@@ -3,14 +3,15 @@
 <title>FileME</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="icon" href="favicon.png" type="image/png"/>
+<link rel="stylesheet" href="index.css">
+<script src="index.js"></script>
+<script src="warning.js"></script>
 </head>
 <body>
-<a href="/fileme/"><img src="assets/fileme-light.png" width="240" alt="logo"/></a>
-<h4>File Hosting For Java Phones</h4>
-• <a href="phoneup.php">Upload Using Phone</a>
-<br>
-• <a href="urlup.php">Upload Using URL</a>
-<br>
-• <a href="releases.php">Release Notes</a>
+<a href="/"><img src="assets/logo.png" width="100%" alt="logo"/></a>
+<hr>
+<a href="/phonehtml.php"><img src="assets/uuphone.png" width="100%" alt="logo"/></a>
+<a href="/urlhtml.php"><img src="assets/uuurl.png" width="100%" alt="logo"/></a>
+<hr>
 </body>
 </html>

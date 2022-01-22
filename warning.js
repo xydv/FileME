@@ -1,0 +1,1 @@
+alert("Please Don't Host Anything That Is Illegal Otherwise Your IP Will Be Banned!");

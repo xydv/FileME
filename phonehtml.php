@@ -3,10 +3,12 @@
 <title>FileME</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="icon" href="favicon.png" type="image/png"/>
+<link rel="stylesheet" href="index.css">
+<script src="index.js"></script>
 </head>
 <body>
-<a href="/fileme/"><img src="assets/fileme-light.png" width="240" alt="logo"/></a>
-<h4>File Hosting For Java Phones</h4>
+<a href="/"><img src="assets/logo.png" width="100%" alt="logo"/></a>
+<hr>
 <form action="upload.php" method="post" enctype="multipart/form-data">
 <input type="file" name="file">
 <br>
